@@ -1,1 +1,1 @@
-web: python manage.py migrate && gunicorn InsureSpectre.wsgi
+web: python manage.py migrate && gunicorn Insurespectre.wsgi
